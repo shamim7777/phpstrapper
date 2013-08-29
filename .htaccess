@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+RewriteCond %{REQUEST_URI} !^/app  
+RewriteRule ^/?(.*)/(.*).json$ /app/$1/$2.json [L]
+RewriteRule ^(assets|css|js|images|facebook)/ - [L]
+RewriteCond %{HTTP_HOST} ^video.fayyaazsandbox.com$
+#RewriteCond %{HTTP_HOST} ^123.200.7.242$
+RewriteRule ^$ http://video.fayyaazsandbox.com/home [L,R=301]
+#RewriteRule ^$ http://123.200.7.242/home [L,R=301]
+RewriteRule ^(.*)index.php$ /home [L]
+RewriteCond $1 !index\.php
+RewriteRule ^/?(.*)$ /app/$1 [L]
+ 
+</IfModule>

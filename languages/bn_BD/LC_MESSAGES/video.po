@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: signup.php:15
+msgid "আপনার ইন্ট্রো টেক্সট এখানে লিখুন"
+msgstr ""

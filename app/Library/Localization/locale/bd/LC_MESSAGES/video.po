@@ -1,0 +1,340 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-21 06:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /var/www/test/localization/test.php:7
+
+msgid "Home"
+msgstr "হোমপেজ"
+
+msgid "Signin facebook"
+msgstr "ফেসবুক সাইন ইন"
+
+msgid "Sign in"
+msgstr "সাইন ইন"
+
+msgid "Keep me signed in"
+msgstr "সাইন ইন করে রাখুন"
+
+msgid "Username"
+msgstr "ইউজারের নাম"
+
+msgid "Password"
+msgstr "পাসওয়ার্ড"
+
+msgid "Forgot password?"
+msgstr "পাসওয়ার্ড ভুলে গেছেন"
+
+msgid "Newest"
+msgstr "নতুন"
+
+msgid "Popular"
+msgstr "জনপ্রিয়"
+
+msgid "Top Channels"
+msgstr "শীর্ষ চ্যানেল"
+
+msgid "Most Viewed"
+msgstr "সর্বাধিক দেখা"
+
+msgid "Categories"
+msgstr "বিভাগ"
+
+msgid "Most Download"
+msgstr "সর্বাধিক ডাউনলোড"
+
+msgid "Recommended"
+msgstr "প্রস্তাবিত"
+
+msgid "Newest Videos"
+msgstr "নতুন ভিডিও"
+
+msgid "Settings"
+msgstr "সেটিংস"
+
+msgid "Terms Of Service"
+msgstr "পরিষেবার শর্তাদি"
+
+msgid "Privacy"
+msgstr "গোপনীয়তা"
+
+msgid "Profile"
+msgstr "প্রোফাইল"
+ 
+msgid "Logout"
+msgstr "লগ আউট"
+    
+msgid "Upload Video"
+msgstr "ভিডিও আপলোড"
+
+msgid "Welcome"
+msgstr "স্বাগত"
+ 
+msgid "Member Since"
+msgstr "সদস্য থেকে"
+
+msgid "View Public Profile"
+msgstr "পাবলিক প্রোফাইল দেখুন"
+
+msgid "Tags"
+msgstr "ট্যাগ"
+
+msgid  "Password"
+msgstr "পাসওয়ার্ড"
+
+msgid "Your Name"
+msgstr "আপনার নাম"
+
+msgid "Username"
+msgstr "ব্যবহারকারীর নাম"
+
+msgid "Email"
+msgstr "ইমেইল"
+
+msgid "Website"
+msgstr "ওয়েবসাইট"
+
+msgid "About"
+msgstr "সম্বন্ধে"
+
+msgid "Location"
+msgstr "অবস্থান"
+
+msgid "Avatar"
+msgstr "প্রতিকৃতি"
+
+msgid "Upload a file"
+msgstr "একটি ফাইল আপলোড করুন"
+
+msgid "Upload Video"
+msgstr "ভিডিও আপলোড করুন"
+
+msgid "Retrieve your password"
+msgstr "আপনার পাসওয়ার্ড পুনরুদ্ধার"
+
+msgid "Retrieve"
+msgstr "উদ্ধার"
+
+msgid "Close"
+msgstr "বন্ধ করুন"
+ 
+msgid "Sign up"
+msgstr "সাইন আপ করুন"
+msgid "Search"
+msgstr "অনুসন্ধান"
+msgid "Signup with facebook"
+msgstr "ফেইসবুক সাইনআপ"
+
+msgid "Detail"
+msgstr "বিস্তারিত"
+msgid "Like"
+msgstr "লাইক"
+msgid "Add Comment"
+msgstr "মন্তব্য করুন"
+msgid "Download"
+msgstr "ডাউনলোড"
+msgid "Photo"
+msgstr "ছবি"
+msgid "Comment"
+msgstr "মন্তব্য"
+
+msgid "Title"
+msgstr "শিরোনাম"
+
+msgid "Tags"
+msgstr "ট্যাগ"
+
+
+msgid "Category"
+msgstr "বিভাগ"
+
+msgid "Entertainment"
+msgstr "প্রমোদ"
+
+
+msgid "Talent"
+msgstr "প্রতিভা"
+
+msgid "Business"
+msgstr "ব্যবসা"
+
+msgid "Education"
+msgstr "শিক্ষা"
+
+msgid "News"
+msgstr "খবর"
+
+msgid "Sports"
+msgstr "খেলা"
+
+msgid "Documentary"
+msgstr "ডকুমেন্টারী"
+
+msgid "Cooking"
+msgstr "রান্নাবান্না"
+
+msgid "Public Awareness"
+msgstr "গণসচেতনতা"
+
+msgid "Technology"
+msgstr "প্রযুক্তি"
+
+msgid "Smiling Bangladesh"
+msgstr "সস্মিত বাংলাদেশ"
+
+msgid "Web design"
+msgstr "ওয়েব ডিজাইন"
+
+msgid "Freelancing"
+msgstr "ফ্রিল্যান্সিং"
+
+msgid "Upload a file"
+msgstr "একটি ফাইল আপলোড করুন"
+
+msgid "Cancel"
+msgstr "বাতিল"
+
+msgid "Next »"
+msgstr "পরবর্তী »"
+
+msgid "« Previous"
+msgstr "« পূর্ববর্তী"
+
+msgid "Location"
+msgstr "অবস্থান"
+
+
+msgid "Enter Old Password"
+msgstr "পুরাতন পাসওয়ার্ড লিখুন"
+
+msgid "Enter New Password"
+msgstr "নতুন পাসওয়ার্ড লিখুন"
+
+msgid "Confirm New Password"
+msgstr "পাসওয়ার্ড নিশ্চিত করুন"
+ 
+msgid "Signup with twitter"
+msgstr "টুইটার সঙ্গে সাইনআপ"
+
+msgid "Sign up using social network"
+msgstr "সামাজিক নেটওয়ার্ক ব্যবহার করে সাইন আপ করুন"
+
+msgid "Post Video"
+msgstr "ভিডিও পোস্ট"
+
+msgid "Description"
+msgstr "বিবরণ"	
+
+msgid "Select Tags"
+msgstr "ট্যাগ নির্বাচন করুন"
+
+msgid "Your Public Profile"
+msgstr "আপনার সর্বজনীন প্রোফাইল"
+
+msgid "Save Change"
+msgstr "পরিবর্তন সংরক্ষণ করুন"
+
+msgid "No videos available"
+msgstr "কোন ভিডিও পাওয়া যায়নি"
+
+msgid "Portfolio"
+msgstr "পোর্টফোলিও"
+
+msgid "Interface Language"
+msgstr "English"
+
+
+msgid "Details"
+msgstr "বিবরণ"
+
+
+msgid "Uploaded By"
+msgstr "দ্বারা আপলোড করা"
+
+
+msgid "Size"
+msgstr "আকার"
+
+msgid "Upload a file"
+msgstr "একটি ফাইল আপলোড করুন"
+
+msgid "0"
+msgstr "০"
+
+msgid "1"
+msgstr "১"
+
+msgid "2"
+msgstr "২"
+
+msgid "3"
+msgstr "৩"
+
+msgid "4"
+msgstr "৪"
+
+msgid "5"
+msgstr "৫"
+
+msgid "6"
+msgstr "৬"
+
+msgid "7"
+msgstr "৭"
+
+msgid "8"
+msgstr "৮"
+
+msgid "9"
+msgstr "৯"
+
+
+msgid "January"
+msgstr "জানুয়ারী"
+
+msgid "February"
+msgstr "ফেব্রুয়ারী"
+
+msgid "March"
+msgstr "মার্চ"
+
+msgid "April"
+msgstr "এপ্রিল"
+
+msgid "May"
+msgstr "মে"
+
+msgid "June"
+msgstr "জুন"
+
+msgid "July"
+msgstr "জুলাই"
+
+msgid "August"
+msgstr "অগাস্ট"
+
+msgid "September"
+msgstr "সেপ্টেম্বর"
+
+msgid "October" 
+msgstr "অক্টোবর"
+
+msgid "November"
+msgstr "নভেম্বর"
+
+msgid "December"
+msgstr "ডিসেম্বর"

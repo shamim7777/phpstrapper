@@ -1,0 +1,349 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-21 06:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /var/www/test/localization/test.php:7
+ 
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Signin facebook"
+msgstr "Signin facebook"
+
+msgid "Sign in"
+msgstr "Sign in"
+
+msgid "Keep me signed in"
+msgstr "Keep me signed in"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+
+msgid "Newest"
+msgstr "Newest"
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Top Channels"
+msgstr "Top Channels"
+
+msgid "Most Viewed"
+msgstr "Most Viewed"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Most Download"
+msgstr "Most Download"
+
+msgid "Recommended"
+msgstr "Recommended"
+
+msgid "Newest Videos"
+msgstr "Newest Videos"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Terms Of Service"
+msgstr "Terms Of Service"
+
+msgid "Privacy"
+msgstr "Privacy"
+
+msgid "Profile"
+msgstr "Profile"
+ 
+msgid "Logout"
+msgstr "Logout"
+    
+msgid "Upload Video"
+msgstr "Upload Video"
+
+msgid "Welcome"
+msgstr "Welcome"
+ 
+msgid "Member Since"
+msgstr "Member Since"
+
+msgid "View Public Profile"
+msgstr "View Public Profile"
+
+msgid "Tags"
+msgstr "Tags"
+
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid  "Password"
+msgstr "Password"
+
+msgid "Your Name"
+msgstr "Your Name"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "About"
+msgstr "About"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "Avatar"
+msgstr "Avatar"
+
+msgid "Upload a file"
+msgstr "Upload a file"
+
+msgid "Retrieve your password"
+msgstr "Retrieve your password" 
+
+msgid "Retrieve"
+msgstr "Retrieve"
+
+msgid "Close"
+msgstr "Close"
+ 
+msgid "Sign up"
+msgstr "Sign up"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Signup with facebook"
+msgstr "Signup with facebook"
+
+msgid "Detail"
+msgstr "Detail"
+
+msgid "Like"
+msgstr "Like"
+
+msgid "Add Comment"
+msgstr "Add Comment"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Comment"
+msgstr "Comment"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Entertainment"
+msgstr "Entertainment"
+
+
+msgid "Talent"
+msgstr "Talent"
+
+msgid "Business"
+msgstr "Business"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "News"
+msgstr "News"
+
+msgid "Sports"
+msgstr "Sports"
+
+msgid "Documentary"
+msgstr "Documentary"
+
+msgid "Cooking"
+msgstr "Cooking"
+
+msgid "Public Awareness"
+msgstr "Public Awareness"
+
+msgid "Public Awareness"
+msgstr "Public Awareness"
+
+msgid "Smiling Bangladesh"
+msgstr "Smiling Bangladesh"
+
+msgid "Web design"
+msgstr "Web design"
+
+msgid "Freelancing"
+msgstr "Freelancing"
+
+msgid "Upload a file"
+msgstr "Upload a file"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Next »"
+msgstr "Next »"
+
+msgid "« Previous"
+msgstr "« Previous"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "Enter Old Password"
+msgstr "Enter Old Password"
+
+msgid "Enter New Password"
+msgstr "Enter New Password"
+
+msgid "Confirm New Password"
+msgstr "Confirm New Password"
+
+msgid "Signup with twitter"
+msgstr "Signup with twitter"
+
+msgid "Sign up using social network"
+msgstr "Sign up using social network"
+
+msgid "Post Video"
+msgstr "Post Video"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Select Tags"
+msgstr "Select Tags"
+
+msgid "Your Public Profile"
+msgstr "Your Public Profile"
+
+msgid "Save Change"
+msgstr "Save Change"
+
+msgid "No videos available"
+msgstr "No videos available"
+
+
+msgid "Portfolio"
+msgstr "Portfolio"
+
+msgid "Interface Language"
+msgstr "বাংলা"
+
+msgid "Details"
+msgstr "Details"
+
+
+msgid "Uploaded By"
+msgstr "Uploaded By"
+
+
+msgid "Size"
+msgstr "Size"
+
+msgid "Upload a file"
+msgstr "Upload a file"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Update Video"
+msgstr "Update Video"
+
+msgid "Channel"
+msgstr "Channel"
+
+msgid "0"
+msgstr "0"
+
+msgid "1"
+msgstr "1"
+
+msgid "2"
+msgstr "2"
+
+msgid "3"
+msgstr "3"
+
+msgid "4"
+msgstr "4"
+
+msgid "5"
+msgstr "5"
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+
+msgid "January"
+msgstr "January"
+msgid "February"
+msgstr "February"
+msgid "March"
+msgstr "March"
+msgid "April"
+msgstr "April"
+msgid "May"
+msgstr "May"
+msgid "June"
+msgstr "June"
+msgid "July"
+msgstr "July"
+msgid "August"
+msgstr "August"
+msgid "September"
+msgstr "September"
+msgid "October" 
+msgstr "October"
+msgid "November"
+msgstr "November"
+msgid "December"
+msgstr "December"
